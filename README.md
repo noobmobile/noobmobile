@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 ### Welcome to my github 💫
-Hey, welcome to my profile, my name is Eduardo. I'm currently graduating in Sistemas e Mídias Digitais (Digital Systems and Media) at Universidade Federal do Ceará (Federal University of Ceará).
+Hey, welcome to my profile, my name is Eduardo. I'm currently graduating in Sistemas e Mídias Digitais (Multimedia Engineering) at Universidade Federal do Ceará (Federal University of Ceará).
 
 ### :clipboard: Technologies:
 
